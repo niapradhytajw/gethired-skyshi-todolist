@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gethired-skyshi-todolist/static/css/main.23f85b80.css",
+    "main.js": "/gethired-skyshi-todolist/static/js/main.b1a49e2f.js",
+    "static/js/787.f6f64530.chunk.js": "/gethired-skyshi-todolist/static/js/787.f6f64530.chunk.js",
+    "index.html": "/gethired-skyshi-todolist/index.html",
+    "main.23f85b80.css.map": "/gethired-skyshi-todolist/static/css/main.23f85b80.css.map",
+    "main.b1a49e2f.js.map": "/gethired-skyshi-todolist/static/js/main.b1a49e2f.js.map",
+    "787.f6f64530.chunk.js.map": "/gethired-skyshi-todolist/static/js/787.f6f64530.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23f85b80.css",
+    "static/js/main.b1a49e2f.js"
+  ]
+}
